@@ -14,6 +14,8 @@ Como baixar e construir o projeto:
   Escolha uma pasta de sua preferência e execute:
     git clone https://github.com/carloses0/tetraTech.git
     
+  Entre na pasta -> tetraTech.  
+    
   Instale todas as dependências nescessárias executando:
     mvn install
   
