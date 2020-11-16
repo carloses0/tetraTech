@@ -1,0 +1,9 @@
+com\tetraTech\projecaoService\core\model\Projecao.class
+com\tetraTech\projecaoService\core\model\ProjecaoResult$ProjecaoResultBuilder.class
+com\tetraTech\projecaoService\core\model\AbstractEntity.class
+com\tetraTech\projecaoService\core\model\PeriodoMedio$PeriodoMedioBuilder.class
+com\tetraTech\projecaoService\core\model\Projecao$ProjecaoBuilder.class
+com\tetraTech\projecaoService\core\model\ProjecaoInfo$ProjecaoInfoBuilder.class
+com\tetraTech\projecaoService\core\model\PeriodoMedio.class
+com\tetraTech\projecaoService\core\model\ProjecaoInfo.class
+com\tetraTech\projecaoService\core\model\ProjecaoResult.class
