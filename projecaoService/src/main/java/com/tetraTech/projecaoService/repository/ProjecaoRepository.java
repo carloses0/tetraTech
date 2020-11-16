@@ -104,7 +104,6 @@ public class ProjecaoRepository {
 
     private File newFile() {
         String directory = pathDefinition();
-        System.out.println(directory);
         Date date = new Date();
         String nameFile = "log.txt";
         SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");

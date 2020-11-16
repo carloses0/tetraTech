@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/projecaoService/projecaoService.iml" filepath="$PROJECT_DIR$/projecaoService/projecaoService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projecaoService/projecaoService.iml" filepath="$PROJECT_DIR$/projecaoService/projecaoService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tetraTech-services.iml" filepath="$PROJECT_DIR$/.idea/tetraTech-services.iml" />
     </modules>
   </component>

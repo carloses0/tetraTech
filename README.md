@@ -17,8 +17,11 @@ Como baixar e construir o projeto:
   Instale todas as dependências nescessárias executando:
     mvn install
   
-  E por fim dê "run" no arquivo: "ProjecaoServiceApplication" que se encontra no caminho: "com.tetraTech.projecaoService.ProjecaoServiceApplication"
+  E por fim dê "run" no arquivo: "ProjecaoServiceApplication" que se encontra no caminho: 
   
+  projecaoService -> src -> main -> java -> com.tetraTech.projecaoService.ProjecaoServiceApplication
+    
+    
 Utilização da API
   
    End-point: "projecao" para recever a Quantidade estimada da população

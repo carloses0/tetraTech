@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97791f36-503f-4227-a12b-7f0d5da7c617" name="Default Changelist" comment="" />
+    <list default="true" id="97791f36-503f-4227-a12b-7f0d5da7c617" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/15-11-2020 20-20-40log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/15-11-2020 20-25-59log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/15-11-2020 20-26-52log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/repository/ProjecaoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/repository/ProjecaoRepository.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/projecaoService/target/" />
     <ignored path="$PROJECT_DIR$/core/target/" />
@@ -12,78 +31,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projecaoService/pom.xml">
+        <entry file="file://$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/repository/ProjecaoRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tetraTech/projecaoService/core/model/AbstractEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/ProjecaoServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tetraTech/projecaoService/core/model/ProjecaoResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tetraTech/projecaoService/core/model/PeriodoMedio.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/endpoint/services/ProjecaoServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+            <state relative-caret-position="501">
+              <caret line="107" column="36" lean-forward="true" selection-start-line="107" selection-start-column="36" selection-end-line="107" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="420">
+                <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -101,20 +69,25 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>log.txt</find>
+      <find>sys</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/core/src/main/java/com/tetraTech/projecao/core/model/Projecao.java" />
         <option value="$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/ProjecaoServiceApplication.java" />
-        <option value="$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/repository/ProjecaoRepository.java" />
         <option value="$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/endpoint/services/ProjecaoServiceImpl.java" />
         <option value="$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/endpoint/services/factory/ProjecaoCreator.java" />
         <option value="$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/ProjecaoServiceApplicationTests.java" />
         <option value="$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/endpoint/services/ProjecaoServiceImplTest.java" />
         <option value="$PROJECT_DIR$/projecaoService/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/repository/ProjecaoRepository.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -152,54 +125,62 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="tetraTech-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tetraTech-services" type="462c0819:PsiDirectoryNode" />
+              <item name="tetraTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tetraTech" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tetraTech-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tetraTech-services" type="462c0819:PsiDirectoryNode" />
+              <item name="tetraTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tetraTech" type="462c0819:PsiDirectoryNode" />
               <item name="projecaoService" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tetraTech-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tetraTech-services" type="462c0819:PsiDirectoryNode" />
-              <item name="projecaoService" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tetraTech-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tetraTech-services" type="462c0819:PsiDirectoryNode" />
+              <item name="tetraTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tetraTech" type="462c0819:PsiDirectoryNode" />
               <item name="projecaoService" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tetraTech-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tetraTech-services" type="462c0819:PsiDirectoryNode" />
+              <item name="tetraTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tetraTech" type="462c0819:PsiDirectoryNode" />
               <item name="projecaoService" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tetraTech-services" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tetraTech-services" type="462c0819:PsiDirectoryNode" />
+              <item name="tetraTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tetraTech" type="462c0819:PsiDirectoryNode" />
               <item name="projecaoService" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tetraTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tetraTech" type="462c0819:PsiDirectoryNode" />
               <item name="projecaoService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="projecaoService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tetraTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tetraTech" type="462c0819:PsiDirectoryNode" />
+              <item name="projecaoService" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,8 +249,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.ProjecaoServiceApplication" />
       <item itemvalue="JUnit.ProjecaoServiceImplTest" />
+      <item itemvalue="Spring Boot.ProjecaoServiceApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -290,6 +271,7 @@
       <workItem from="1605457113384" duration="1244000" />
       <workItem from="1605458420800" duration="4094000" />
       <workItem from="1605478009709" duration="9854000" />
+      <workItem from="1605538083196" duration="379000" />
     </task>
     <servers />
   </component>
@@ -308,12 +290,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15192000" />
+    <option name="totallyTimeSpent" value="15571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25586355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2585288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -323,13 +306,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.57746476" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35861322" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4582882" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30227518" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32827735" />
@@ -370,29 +353,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projecaoService/projecaoService.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/repository/ProjecaoRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1490">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/endpoint/services/factory/ProjecaoCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/projecaoService/projecaoService.iml" />
+    <entry file="file://$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/endpoint/services/factory/ProjecaoCreator.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.4.0/spring-boot-test-2.4.0.jar!/org/springframework/boot/test/context/SpringBootTestContextBootstrapper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -424,6 +386,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/ProjecaoServiceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/endpoint/services/ProjecaoServiceImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projecaoService/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/tetraTech/projecaoService/core/model/AbstractEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -438,41 +432,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/ProjecaoServiceApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/projecaoService/src/main/java/com/tetraTech/projecaoService/repository/ProjecaoRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="501">
+          <caret line="107" column="36" lean-forward="true" selection-start-line="107" selection-start-column="36" selection-end-line="107" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projecaoService/src/test/java/com/tetraTech/projecaoService/endpoint/services/ProjecaoServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projecaoService/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
